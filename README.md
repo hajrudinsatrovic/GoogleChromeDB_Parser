@@ -8,7 +8,7 @@ The purpose of this final project is to create a tool that parses Google Chrome 
 
 ## FILES INCLUDED:
 ***
--finalproject.py - This is the main script. When the program is ran, it will parse through the respective database files and retrieve relevant information about each artifact such as cookies, history, downloads, and login data and export it into respective .txt files in the current working directory.
+-GoogleChromeDB_Parser.py - This is the main script. When the program is ran, it will parse through the respective database files and retrieve relevant information about each artifact such as cookies, history, downloads, and login data and export it into respective .txt files in the current working directory.
 
 ## RUNNING THE PROGRAM:
 ***
